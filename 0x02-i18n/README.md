@@ -1,13 +1,5 @@
-<p>
-<img width="260" height="170" src="https://www.flaticon.com/svg/static/icons/svg/2206/2206461.svg" align="right" >
-</p>
-
-# :colombia: 0x0A. i18n
-
-- Learn how to parametrize Flask templates to display different languages
-- Learn how to infer the correct locale based on URL parameters, user settings or request headers
-- Learn how to localize timestamps
-
+ 
+#  i18n  
 ## Prerequisites
 
 - All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 `(version 3.7)`
@@ -29,19 +21,4 @@ $ Python3.7 ./app.py
 ```
 
 ## Files
-
-| Files            | Description                     |
-| ---------------- | ------------------------------- |
-| **0-app.py**     | Basic Flask app                 |
-| **1-app.py**     | Basic Babel setup               |
-| **2-app.py**     | Get locale from request         |
-| **3-app.py**     | Parametrize templates           |
-| **4-app.py**     | Force locale with URL parameter |
-| **5-app.py**     | Mock logging in                 |
-| **6-app.py**     | Use user locale                 |
-| **7-app.py**     | Infer appropriate time zone     |
-| **app.py**       | Display the current time        |
-| **babel.cfg**    | Configuration babel             |
-| **translations** | Translations of babel           |
-| **messages.pot** | Logs babel                      |
-| **templates**    | Templates                       |
+ 
